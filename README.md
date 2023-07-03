@@ -1,7 +1,7 @@
 <div style="text-align: center;">
 <b>Demo:</b><br><br>
 
-<img style="width: 400px" src="https://github.com/WeansHHN/iGG-By-HHNiOS/blob/main/photo_2023-05-16_15-32-42.jpg?raw=true">
+<img style="width: 400px" src="https://raw.githubusercontent.com/WeansHHN/FPSDisplay-For-Project-Theos/main/demofps.jpg">
 </div>
 
 <br>
@@ -42,6 +42,6 @@
 ### Credits:
 * Me (HHNiOS)
 * Collect
-### [Download]([https://github.com/WeansHHN/iGG-By-HHNiOS/releases/tag/HHN](https://github.com/WeansHHN/FPSDisplay-For-Project-Theos/releases/tag/FPSDisplay)https://github.com/WeansHHN/FPSDisplay-For-Project-Theos/releases/tag/FPSDisplay)
+### [Download](https://github.com/WeansHHN/FPSDisplay-For-Project-Theos/releases/tag/FPSDisplay)https://github.com/WeansHHN/FPSDisplay-For-Project-Theos/releases/tag/FPSDisplay)
 <br>
 <br>
