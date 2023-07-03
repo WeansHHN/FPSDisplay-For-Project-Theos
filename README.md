@@ -1,7 +1,6 @@
-<div style="text-align: center;">
 <b>Demo:</b><br><br>
-
-<img style="width: 400px" src="https://raw.githubusercontent.com/WeansHHN/FPSDisplay-For-Project-Theos/main/demofps.jpg">
+<div style="text-align: center;">
+<img style="width: 500px" src="https://raw.githubusercontent.com/WeansHHN/FPSDisplay-For-Project-Theos/main/demofps.jpg">
 </div>
 
 <br>
