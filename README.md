@@ -43,13 +43,12 @@
 ```
 
 ### Ghi chú:
-* Các anh lớn bus nhớ ghi ngồn🥑🕵️‍♀️:v
+* Các anh lớn bus nhớ ghi ngồn🥑🕵️‍♀️:v à thôi đ cần đâu
 <br>
 
 ### Credits:
 * Me (HHNiOS)
 * Collect
-  <br>
 ### [Download](https://github.com/WeansHHN/iGG-By-HHNiOS/releases/tag/HHN)
 <br>
 <br>
