@@ -42,6 +42,6 @@
 ### Credits:
 * Me (HHNiOS)
 * Collect
-### [Download](https://github.com/WeansHHN/iGG-By-HHNiOS/releases/tag/HHN)
+### [Download]([https://github.com/WeansHHN/iGG-By-HHNiOS/releases/tag/HHN](https://github.com/WeansHHN/FPSDisplay-For-Project-Theos/releases/tag/FPSDisplay)https://github.com/WeansHHN/FPSDisplay-For-Project-Theos/releases/tag/FPSDisplay)
 <br>
 <br>
