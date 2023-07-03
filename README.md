@@ -42,6 +42,6 @@
 ### Credits:
 * Me (HHNiOS)
 * Collect
-### [Download](https://github.com/WeansHHN/FPSDisplay-For-Project-Theos/releases/tag/FPSDisplay)https://github.com/WeansHHN/FPSDisplay-For-Project-Theos/releases/tag/FPSDisplay)
+### [Download](https://github.com/WeansHHN/FPSDisplay-For-Project-Theos/releases/tag/FPSDisplay)
 <br>
 <br>
