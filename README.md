@@ -35,13 +35,6 @@
 //set backgroud
  self.displayLabel.backgroundColor = [UIColor colorWithWhite:0.000 alpha:0.3];
 ```
-* Thiết lập màu nền
-
-```obj-c
-//set backgroud
- self.displayLabel.backgroundColor = [UIColor colorWithWhite:0.000 alpha:0.3];
-```
-
 ### Ghi chú:
 * Các anh lớn bus nhớ ghi ngồn🥑🕵️‍♀️:v à thôi đ cần đâu=)))
 <br>
