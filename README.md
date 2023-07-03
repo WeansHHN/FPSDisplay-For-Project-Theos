@@ -43,7 +43,7 @@
 ```
 
 ### Ghi chú:
-* Các anh lớn bus nhớ ghi ngồn🥑🕵️‍♀️:v à thôi đ cần đâu
+* Các anh lớn bus nhớ ghi ngồn🥑🕵️‍♀️:v à thôi đ cần đâu=)))
 <br>
 
 ### Credits:
